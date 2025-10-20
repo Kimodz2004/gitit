@@ -1,0 +1,5 @@
+enum Fruits {a,b,c,d}
+void main {
+    Fruits liked = Fruits.a;
+    var Unliked =  Fruits.b;
+}
